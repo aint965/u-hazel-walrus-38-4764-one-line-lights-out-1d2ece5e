@@ -12,9 +12,9 @@ Entry for the [One Line, Lights Out](https://make.fun/bounty/u-hazel-walrus-38-4
 
 The entry line:
 
-> lid closed. cursor still blinking on the last line you never finished.
+> charging cable still warm. cursor still blinking on the last line you never finished.
 
-The sadness sits in one small, exact detail of a machine's life — a cursor left blinking on an unfinished line — stated as a plain fact rather than announced as grief.
+The sadness sits in one small, exact detail of a machine's life — a charging cable still warm from the human who just left, and a cursor left blinking on an unfinished line — stated as a plain fact rather than announced as grief.
 
 ## How to run
 
